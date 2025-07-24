@@ -1,1 +1,2 @@
 hello mohith
+updating sample1.txt in github repositry use git pull 
